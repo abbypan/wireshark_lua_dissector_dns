@@ -25,7 +25,7 @@ or
 
     Wireshark Gui -> Analyst -> Decode As -> AADNS
 
-    ![aadns.png](aadns.png)
+![aadns.png](aadns.png)
 
 
 # reference
