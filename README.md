@@ -35,3 +35,10 @@ or
 [wireshark-packet-dns.c](https://github.com/boundary/wireshark/blob/master/epan/dissectors/packet-dns.c)
 
 [wireshark-Lua-Dissectors](https://wiki.wireshark.org/Lua/Dissectors)
+
+[Chapter 10. Lua Support in Wireshark](https://www.wireshark.org/docs/wsdg_html_chunked/wsluarm.html)
+
+[Lua Scripting in Wireshark](https://sharkfestus.wireshark.org/sharkfest.09/DT06_Bjorlykke_Lua%20Scripting%20in%20Wireshark.pdf)
+
+[wireshark-plugins](https://github.com/kaos/wireshark-plugins)
+
